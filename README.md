@@ -44,3 +44,12 @@ jupyter notebook
 > Analyse 2: NFSe Servers' Counter
 
 > Analyse 3: Selling Games
+
+----
+### `✉️ Contact ✉️`
+
+> **Email:** `gabrielfelix08@outlook.com`
+
+> **Linkedin:** `---`
+
+> **Instagram:** `---`
