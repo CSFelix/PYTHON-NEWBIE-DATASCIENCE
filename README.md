@@ -46,13 +46,14 @@ jupyter notebook
 > Analyse 3: Selling Games
 
 ----
-### `✉️ Contact ✉️`
 
-> **Email:** `csfelix08@gmail.com`
+### `📫 Reach Me 📫`
 
-> **Linkedin:** `linkedin.com/in/csfelix/`
+> **Email:** **[csfelix08@gmail.com](mailto:csfelix08@gmail.com?)**
 
-> **Instagram:** `instagram.com/c0deplus/`
+> **Linkedin:** **[linkedin.com/in/csfelix/](https://www.linkedin.com/in/csfelix/)**
+
+> **Instagram:** **[instagram.com/c0deplus/](https://www.instagram.com/c0deplus/)**
 
 ----
 
